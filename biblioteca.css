@@ -369,7 +369,6 @@
     justify-content: space-around;
     padding-top: 80px;
     font-family: sans-serif;
-    padding-bottom: 50px;
 }
 
 .footer_c1{
@@ -389,10 +388,6 @@
 .footer_c2 h2{
     color: white;
     padding-bottom: 20px;
-}
-
-.footer_c2 p{
-    padding-bottom:10px;
 }
 
 .footer_c2 img{
@@ -457,11 +452,23 @@
 
 }
 
-.c4{
+.c4 {
     color: #a3a2a2 ;
-    padding-bottom: 15px;
 }
 
+.footer_icon{
+    background-color: #000000;
+    padding-left: 3vw;
+    padding-bottom: 8vh;
+}
+
+.footer_icon img{
+    width: 1.8vw;
+    background-color: #1E293B;
+    padding: 1vh;
+    border-radius: 50%;
+    margin-left: 1vw;
+}
 
 .rights{
     padding-top: 50px;
