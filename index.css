@@ -151,7 +151,7 @@
 .card{
     background-color: rgb(255, 255, 255);
     height:50vh;
-    width: 20vw;
+    width: 18vw;
     border-radius: 10px;
     display: flex;
     flex-direction: column-reverse;
@@ -173,7 +173,7 @@
 }
 
 .card img{
-    max-width: 250px;
+    max-width: 16vw;
     max-height: auto;
     border-radius: 15px;
     justify-content:space-around;
@@ -185,7 +185,7 @@
 
 .im_a_book{
     padding: 11px;
-    width: 18vw;
+    width: 16vw;
     background-color: #F7EEE7;
     border-radius: 8px;
     border: none;
