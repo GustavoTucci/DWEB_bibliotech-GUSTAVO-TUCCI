@@ -110,7 +110,7 @@
     display: flex;
     background-color: white;
     border-radius: 10px 0 0 10px;
-    height: 71px;
+    height: 9.6vh;
     margin: 5px 0 5px 5px
 }
 
@@ -150,8 +150,8 @@
 
 .card{
     background-color: rgb(255, 255, 255);
-    height:370px;
-    width: 275px;
+    height:50vh;
+    width: 20vw;
     border-radius: 10px;
     display: flex;
     flex-direction: column-reverse;
