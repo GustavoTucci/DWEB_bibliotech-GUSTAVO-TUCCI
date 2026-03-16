@@ -110,7 +110,7 @@
     display: flex;
     background-color: white;
     border-radius: 10px 0 0 10px;
-    height: 9.6vh;
+    height: 10vh;
     margin: 5px 0 5px 5px
 }
 
@@ -150,7 +150,7 @@
 .card{
     background-color: rgb(255, 255, 255);
     height:50vh;
-    width: 16vw;
+    width: 18vw;
     border-radius: 10px;
     display: flex;
     flex-direction: column-reverse;
@@ -172,7 +172,7 @@
 }
 
 .card img{
-    max-width: 14vw;
+    max-width: 16vw;
     max-height: auto;
     border-radius: 15px;
     justify-content:space-around;
@@ -184,7 +184,7 @@
 
 .im_a_book{
     padding: 11px;
-    width: 14vw;
+    width: 16vw;
     background-color: #F7EEE7;
     border-radius: 8px;
     border: none;
